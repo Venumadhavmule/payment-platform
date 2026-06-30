@@ -1,0 +1,6 @@
+spring.application.name=payment-service
+
+# Stripe API Configuration Placeholders
+# Replace these placeholder values with your actual keys from the Stripe Dashboard
+#stripe.webhook.secrete =whsec_your_webhook_secret_here
+stripe.secret.key=sk_test_your_secret_key_here
